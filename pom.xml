@@ -29,9 +29,9 @@
         <weixin-java-miniapp.version>3.3.0</weixin-java-miniapp.version>
         <qcloudsms.version>1.0.5</qcloudsms.version>
         <cos_api.version>5.6.8</cos_api.version>
-        <aliyun-sdk-oss.version>2.5.0</aliyun-sdk-oss.version>
+        <aliyun-sdk-oss.version>2.8.3</aliyun-sdk-oss.version>
         <qiniu-java-sdk.version>[7.2.0, 7.2.99]</qiniu-java-sdk.version>
-        <spring-boot-starter-json.version>2.0.4.RELEASE</spring-boot-starter-json.version>
+        <spring-boot-starter-json.version>2.1.10.RELEASE</spring-boot-starter-json.version>
         <spring-boot-starter-mail.version>2.0.4.RELEASE</spring-boot-starter-mail.version>
 	</properties>
     
