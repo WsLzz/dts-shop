@@ -31,7 +31,7 @@
         <cos_api.version>5.6.8</cos_api.version>
         <aliyun-sdk-oss.version>2.5.0</aliyun-sdk-oss.version>
         <qiniu-java-sdk.version>[7.2.0, 7.2.99]</qiniu-java-sdk.version>
-        <spring-boot-starter-json.version>2.0.4.RELEASE</spring-boot-starter-json.version>
+        <spring-boot-starter-json.version>3.1.10</spring-boot-starter-json.version>
         <spring-boot-starter-mail.version>2.0.4.RELEASE</spring-boot-starter-mail.version>
 	</properties>
     
