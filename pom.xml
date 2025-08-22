@@ -25,14 +25,14 @@
         <hibernate-validator.version>6.0.15.Final</hibernate-validator.version>
         <mysql-connector-java.version>5.1.46</mysql-connector-java.version>
         <druid-spring-boot-starter.version>1.1.10</druid-spring-boot-starter.version>
-        <weixin-java-pay.version>3.3.0</weixin-java-pay.version>
+        <weixin-java-pay.version>4.7.6-20250712.164952</weixin-java-pay.version>
         <weixin-java-miniapp.version>3.3.0</weixin-java-miniapp.version>
         <qcloudsms.version>1.0.5</qcloudsms.version>
         <cos_api.version>5.6.8</cos_api.version>
         <aliyun-sdk-oss.version>2.5.0</aliyun-sdk-oss.version>
         <qiniu-java-sdk.version>[7.2.0, 7.2.99]</qiniu-java-sdk.version>
         <spring-boot-starter-json.version>2.0.4.RELEASE</spring-boot-starter-json.version>
-        <spring-boot-starter-mail.version>2.0.4.RELEASE</spring-boot-starter-mail.version>
+        <spring-boot-starter-mail.version>3.4.9</spring-boot-starter-mail.version>
 	</properties>
     
 	<modules>
